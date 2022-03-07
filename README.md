@@ -5,8 +5,9 @@
 ### About of Me
 - I am a software engineering student at Autonomous University of Queretaro.
 - I'm starting to draw in pixel art style.
-- My Favorites consoles are nintendo & xbox.
-- My nicknames are Mr.algoritmo or Frosty
+- My Favorites consoles are nintendo & xbox 🕹️
+- My nicknames are Mr.algoritmo💻 or Frosty⛄.
+- I'm learning to play the bass🎸
 
 
 ### My favorite operating systems
@@ -17,30 +18,17 @@
 
 </p>
 
-
 ### My Lenguage
 
-<p align="center">
 <a href="#"><img src="https://img.shields.io/badge/-C Sharp-0D1117?style=rounded-square&logo=csharp&logoColor=purple"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=orange"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=Orange"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=white"/></a>
 </p>
 
-<!--
-*Thomas-George-T/Thomas-George-T* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-T
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My IDE's
+<a href="#"><img src="https://img.shields.io/badge/VS-0D1117.svg?style=rounded-square&logo=visualstudio&logoColor=purple"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Eclipse-0D1117.svg?style=rounded-square&logo=eclipse&logoColor=orange"/></a>
 
 
 ### My Recent post on Medium!
