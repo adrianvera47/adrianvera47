@@ -5,13 +5,12 @@
 ### About of Me
 - I am a software engineering student at Autonomous University of Queretaro.
 - I'm starting to draw in pixel art style.
-- My Favorites consoles are nintendo & xbox 🕹️
+- My Favorites consoles are nintendo & xbox🕹️.
 - My nicknames are Mr.algoritmo💻 or Frosty⛄.
-- I'm learning to play the bass🎸
+- I'm learning to play the bass🎸.
 
 
 ### My favorite operating systems
-<p align="center"> 
 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></a>
@@ -20,10 +19,10 @@
 
 ### My Lenguage
 
-<a href="#"><img src="https://img.shields.io/badge/-C Sharp-0D1117?style=rounded-square&logo=csharp&logoColor=purple"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=orange"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-0D1117.svg?style=rounded-square&logo=git&logoColor=Orange"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+
 </p>
 
 ### My IDE's
@@ -31,12 +30,11 @@
 <a href="#"><img src="https://img.shields.io/badge/Eclipse-0D1117.svg?style=rounded-square&logo=eclipse&logoColor=orange"/></a>
 
 
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
+### My stats
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianVera47&show_icons=true&theme=tokyonight"  height="200"/>
+
     
-    
-*If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.*
-<hr>
+
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
