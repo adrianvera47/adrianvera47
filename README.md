@@ -9,6 +9,15 @@
 - My nicknames are Mr.algoritmo💻 or Frosty⛄.
 - I'm learning to play the bass🎸.
 
+<hr>
+<p align="center">
+   <i>“"In the end everything will be fine and if it's not fine we haven't reached the end".” </i>
+   <br>
+   <i>― Pelusa Caligari</i>
+   <br>
+</p>
+<br>
+
 
 ### My favorite operating systems
 
@@ -29,21 +38,21 @@
 <a href="#"><img src="https://img.shields.io/badge/VS-0D1117.svg?style=rounded-square&logo=visualstudio&logoColor=purple"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Eclipse-0D1117.svg?style=rounded-square&logo=eclipse&logoColor=orange"/></a>
 
+</p>
 
 ### My stats
-<img src="https://github-readme-stats.vercel.app/api?username=AdrianVera47&show_icons=true&theme=tokyonight"  height="200"/>
 
-    
+<img src="https://github-readme-stats.vercel.app/api?username=AdrianVera47&show_icons=true&theme=radical"  height="200"/>
 
-<p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
+</p>
+
+### My top lenguages    
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianVera47&langs_count=10&layout=compact&theme=radical"  height="200"/>
+
+</p>
+
+
+ <p align="center">
+<a href="mailto: zavaleta.adrian15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
