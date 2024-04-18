@@ -4,7 +4,7 @@
 
 ### About of Me
 - I am a software engineering student at Autonomous University of Queretaro.
-- My nicknames are Mr.algoritmo💻.
+- My nickname is Mr.algoritmo💻.
 
 
 <hr>
