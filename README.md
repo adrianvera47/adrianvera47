@@ -4,10 +4,8 @@
 
 ### About of Me
 - I am a software engineering student at Autonomous University of Queretaro.
-- I'm starting to draw in pixel art style.
-- My Favorites consoles are nintendo & xbox🕹️.
-- My nicknames are Mr.algoritmo💻 or Nahual.
-- I'm learning to play the bass🎸.
+- My nicknames are Mr.algoritmo💻.
+
 
 <hr>
 <p align="center">
